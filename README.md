@@ -1,6 +1,6 @@
-# flounder.style.js
+# flounder.svg.js
 
-Digital color depth pattern style maker for TypeScript/JavaScript
+Digital color depth pattern SVG maker for TypeScript/JavaScript
 
 ## Features
 
